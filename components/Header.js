@@ -14,9 +14,9 @@ const HeaderPN = () => (
             <Link href="#pricing" >
                 <a className="mr-2 lg:mr-9 sm:mr-4 hover:text-red-600 hover:overline md:text-xl">Precios</a>
             </Link>
-            <Link href="#products">
+            {/* <Link href="#products">
                 <a className="mr-2 lg:mr-9 sm:mr-4 hover:text-red-600 hover:overline md:text-xl">Productos</a>
-            </Link>
+            </Link> */}
             <Link href="#gallery">
                 <a className="mr-2 lg:mr-9 sm:mr-4 hover:text-red-600 hover:overline md:text-xl">Galería</a>
             </Link>
