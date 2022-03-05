@@ -16,7 +16,7 @@ export default function IndexPage(){
             <HomeBN />
             <div className=" lg:ml-12 lg:mr-12">
                 <PricingBN />
-                <ProductsBN />
+                {/* <ProductsBN /> */}
                 <GalleryBN />
                 <AboutBN />
             </div>
