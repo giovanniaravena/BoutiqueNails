@@ -42,7 +42,7 @@ const HomeBN = () => (
                 Cuidar de tus uñas es nuestra mayor preocupación por eso somos especialistas en reparar, fortalecer y embellecer tus uñas.
             </p>
             <div className=" ">
-                <Link href="https://wa.me/56949319142">
+                <Link href="https://wa.me/56943443011">
                 <button className=" text-white focus:outline-none outline-0 text-lg btn-wsp ">
                     <svg
                         className="w-7 h-7 fill-current inline-block"
