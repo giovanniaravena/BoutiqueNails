@@ -24,7 +24,7 @@ const HeaderPN = () => (
                 <a className="mr-2 lg:mr-12 sm:mr-4 hover:text-red-600 hover:overline md:text-xl">Nosotros</a>
             </Link>
         </nav>
-        {/* <Link href="https://wa.me/56949319142">
+        {/* <Link href="https://wa.me/56943443011">
             <button className="inline-flex items-center btn-wsp border-5 py-1 px-3 focus:outline-none rounded text-base mt-4 md:mt-0">
                 Agenda tu hora
             </button>

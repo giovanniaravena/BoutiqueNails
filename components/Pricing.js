@@ -35,7 +35,7 @@ const PricingBN = () => (
                 </svg>
               </span>Decoración a elección
             </p>
-            <Link href="https://wa.me/56949319142">
+            <Link href="https://wa.me/56943443011">
             <button className="flex items-center mt-auto text-white bg-gray-400 border-0 py-2 px-4 w-full focus:outline-none hover:bg-gray-500 rounded">
               Solicitar
               <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-4 h-4 ml-auto" viewBox="0 0 24 24">
@@ -78,7 +78,7 @@ const PricingBN = () => (
                 </svg>
               </span>Decoración a elección
             </p>
-            <Link href="https://wa.me/56949319142">
+            <Link href="https://wa.me/56943443011">
             <button className="flex items-center mt-auto text-white bg-purple-500 border-0 py-2 px-4 w-full focus:outline-none hover:bg-purple-600 rounded">
               Solicitar
               <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-4 h-4 ml-auto" viewBox="0 0 24 24">
@@ -120,7 +120,7 @@ const PricingBN = () => (
                 </svg>
               </span>Decoración a elección
             </p>
-            <Link href="https://wa.me/56949319142">
+            <Link href="https://wa.me/56943443011">
             <button className="flex items-center mt-auto text-white bg-gray-400 border-0 py-2 px-4 w-full focus:outline-none hover:bg-gray-500 rounded">
               Solicitar
               <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-4 h-4 ml-auto" viewBox="0 0 24 24">
@@ -162,7 +162,7 @@ const PricingBN = () => (
                 </svg>
               </span>Decoración a elección
             </p>
-            <Link href="https://wa.me/56949319142">
+            <Link href="https://wa.me/56943443011">
             <button className="flex items-center mt-auto text-white bg-gray-400 border-0 py-2 px-4 w-full focus:outline-none hover:bg-gray-500 rounded">
               Solicitar
               <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-4 h-4 ml-auto" viewBox="0 0 24 24">
